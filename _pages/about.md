@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Wonder, en is gheen wonder"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Johan Bollen is a Professor of Simulation of Complex Adaptive Systems at the University of Amsterdam and Professor of Informatics and Cognitive Science at Indiana University Bloomington. He is the director of the Center for Social and Biomedical Complexity at Indiana University, a member of the board of directors of the center for Urban Mental Health, director of the SOCIAL lab at Indiana University, and a SparCs fellow at the Wageningen University and Research. He was formerly a staff scientist at the Los Alamos National Laboratory and an Assistant Professor at the Department of Computer Science of Old Dominion University from 2002 to 2005. He obtained his PhD in Experimental Psychology from the Vrije Universiteit Brussel (VUB, 2001). He has published more than 100 articles on computational psychology, computational science, network science, complex systems, social media analytics, informetrics, and digital libraries. His research has been funded by the NIH, NSF, DARPA, IARPA, EDA, NASA, and Andrew W. Mellon Foundation. His recent interests are unraveling the dynamics of individual and collective mental health from a complex adaptive systems perspective, including the affective, cognitive, and behavioral effects of social media on well-being.
 
 A data-driven personal website
 ======
