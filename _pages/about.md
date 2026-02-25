@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Wonder, en is gheen wonder"
+title: "Hello, I am Johan Bollen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Johan Bollen is a Professor of Simulation of Complex Adaptive Systems at the University of Amsterdam and Professor of Informatics and Cognitive Science at Indiana University Bloomington. He served as Informatics department chair, is the director of the Center for Social and Biomedical Complexity at Indiana University, a member of the board of directors of the center for Urban Mental Health, director of the SOCIAL lab at Indiana University, and a SparCs fellow at the Wageningen University and Research. He was formerly a staff scientist at the Los Alamos National Laboratory and an Assistant Professor at the Department of Computer Science of Old Dominion University. He holds a PhD in Experimental Psychology from the Vrije Universiteit Brussel (2001).
+I am a Professor of Simulation of Complex Adaptive Systems at the University of Amsterdam and Professor of Informatics and Cognitive Science at Indiana University Bloomington. I served as Informatics department chair at Indiana Univesity where I am also the director of the Center for Social and Biomedical Complexity at Indiana University. I am a member of the board of directors of the center for Urban Mental Health, director of the SOCIAL lab at Indiana University, and a SparCs fellow at the Wageningen University and Research. I was formerly a staff scientist at the Los Alamos National Laboratory and an Assistant Professor at the Department of Computer Science of Old Dominion University. I have a PhD in Experimental Psychology from the Vrije Universiteit Brussel (2001).
 
-Johan has published more than 100 articles on computational psychology, computational science, network science, complex systems, social media analytics, and informetrics. His research has been funded by the NIH, NSF, DARPA, IARPA, EDA, NASA, and Andrew W. Mellon Foundation. His recent interests are unraveling the dynamics of individual and collective mental health from a complex adaptive systems perspective, including the affective, cognitive, and behavioral effects of social media on well-being.
+I published more than 100 articles on computational psychology, computational science, network science, complex systems, social media analytics, and informetrics. My research has been funded by the NIH, NSF, DARPA, IARPA, EDA, NASA, and Andrew W. Mellon Foundation. My recent interests are unraveling the dynamics of individual and collective mental health from a complex adaptive systems perspective, including the affective, cognitive, and behavioral effects of social media on well-being.
 
 A data-driven personal website
 ======
