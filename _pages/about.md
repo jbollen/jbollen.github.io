@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I am Johan Bollen"
+title: "Johan Bollen"
 author_profile: true
 redirect_from: 
   - /about/
