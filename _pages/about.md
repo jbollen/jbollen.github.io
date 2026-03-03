@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of Simulation of Complex Adaptive Systems at the [University of Amsterdam](https://ivi.uva.nl/) 🇳🇱 and Professor of Informatics and Cognitive Science at [Indiana University Bloomington](https://luddy.iu.edu/) 🇺🇸.
+I am a Professor of Simulation of Complex Adaptive Systems at the [University of Amsterdam](https://ivi.uva.nl/) 🇳🇱 where I am a member of the [Computational Science Lab](https://ivi.uva.nl/research/computational-science-lab-csl.html) of the [Informatics Institute](https://ivi.uva.nl/), and Professor of Informatics and (Cognitive Science)[https://cogs.indiana.edu/index.html] at [Indiana University Bloomington](https://luddy.iu.edu/) 🇺🇸.
 
 I served as [Informatics](https://luddy.iu.edu/academics/units/informatics.html) department chair at Indiana University where I am presently the director of the Center for Social and Biomedical Complexity at Indiana University. I am a member of the board of directors of the center for [Urban Mental Health](https://ias.uva.nl/research-themes/health-complexity/urban-mental-health/urban-mental-health.html), director of the SOCIAL lab at Indiana University, and a [Synergy Program for Analysing Resilience and Critical transitionS](https://sparcs-center.org/) fellow at the [Wageningen University and Research](https://www.wur.nl/). I was formerly a staff scientist at the [Los Alamos National Laboratory](https://www.lanl.gov/) in New Mexico and an Assistant Professor at the [Department of Computer Science of Old Dominion University](https://www.odu.edu/academics/programs/linked/computer-science) in Virginia. I have a PhD (2001) in Experimental Psychology from the [Vrije Universiteit Brussel](https://www.vub.be/nl)🇧🇪.
 
