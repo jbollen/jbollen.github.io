@@ -5,6 +5,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+header:
+  overlay_image: /assets/images/network.jpg
+  overlay_filter: 0.4
 ---
 
 I am a Professor of Simulation of Complex Adaptive Systems at the [University of Amsterdam](https://ivi.uva.nl/) 🇳🇱 where I am a member of the [Computational Science Lab](https://ivi.uva.nl/research/computational-science-lab-csl.html) of the [Informatics Institute](https://ivi.uva.nl/), and Professor of [Informatics](https://luddy.iu.edu/academics/units/informatics.html) and [Cognitive Science](https://cogs.indiana.edu/index.html) at [Indiana University Bloomington](https://luddy.iu.edu/) 🇺🇸.
