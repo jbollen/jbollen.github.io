@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Johan Bollen"
+title: "Complexity Science for the Common Good"
 author_profile: true
 redirect_from: 
   - /about/
