@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Understanding the complexity of human behavior"
+title: "Complexity and computation"
 author_profile: true
 redirect_from: 
   - /about/
