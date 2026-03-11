@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Complexity Science for the Common Good"
+title: "Embracing complexity for the common good"
 author_profile: true
 redirect_from: 
   - /about/
