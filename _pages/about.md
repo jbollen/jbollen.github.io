@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Complexity and computation"
+title: "Computational solutions for a complex world"
 author_profile: true
 redirect_from: 
   - /about/
