@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Complexity for the common good"
+title: "Understanding the complexity of human behavior"
 author_profile: true
 redirect_from: 
   - /about/
