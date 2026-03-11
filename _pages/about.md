@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational solutions for a complex world"
+title: "Minds, networks, and society:<br><h3>computational science for a complex world</h3>"
 author_profile: true
 redirect_from: 
   - /about/
