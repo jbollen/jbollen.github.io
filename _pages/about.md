@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Our Minds, Networks, and Societies"
+title: "Minds. Networks. Societies."
 author_profile: true
 redirect_from: 
   - /about/
