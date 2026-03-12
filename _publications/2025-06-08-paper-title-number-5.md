@@ -2,7 +2,7 @@
 title: "The minute-scale dynamics of online emotions reveal the effects of affect labeling"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: 'Our results describe the evolution of emotions and their expression at the temporal resolution of one minute. The expression of positive emotions is preceded by a short, steep increase in positive valence and followed by short decay to normal levels. Negative emotions, however, build up more slowly and are followed by a sharp reversal to previous levels'
 date: 2018-12-18
 venue: 'Nature Human Behavior'
