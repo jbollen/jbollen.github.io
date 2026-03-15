@@ -10,9 +10,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Keynote at 5th international conference of the Association of Cognitive Bias Modification (ACBM)<br />ACBM 2026; Gent, Belgium",
+    51.0538286,
+    3.7250121
   ],
   [
     "Keynote at The 6th International Symposium on Complex Systems 2026<br />ISCS 2026; La Rochelle, France",
