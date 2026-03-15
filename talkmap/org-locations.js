@@ -5,7 +5,7 @@ var addressPoints = [
     4.8924534
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
+    "S.O.S. Mental Health: UMH Session and Symposium<br />Institute for Advanced Studies festival; London, UK",
     51.5074456,
     -0.1277653
   ],
