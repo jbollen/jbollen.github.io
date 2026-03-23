@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-AI and systems science to understand our world's complexity.
+Understandings our world's complexity.
 
 Johan Bollen is a computational scientist exploring the complex dynamics of human and social behavior in the context of techno-social systems. He holds professorships at the [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam) in the Netherlands, where he focuses on the simulation of complex adaptive systems, and at [Indiana University Bloomington](https://www.indiana.edu/) in the USA, where he bridges informatics and cognitive science. At Indiana University, he previously served as Chair of the Informatics department of the [Luddy School of Informatics, Computing, and Engineering](https://luddy.iu.edu/index.html), now directs the Center for Social and Biomedical Complexity (CSBC), and leads the SOCIAL Lab. He serves on the board of directors of the [Center for Urban Mental Health](https://www.centreforurbanmentalhealth.com/) at the University of Amsterdam [Institute for Advanced studies](https://ias.uva.nl/). He is a Synergy Program for Analysing Resilience and Critical transitionS (SPARCS) fellow at [Wageningen University and Research](https://www.wur.nl/en.htm).
 
