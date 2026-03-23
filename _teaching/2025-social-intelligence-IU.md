@@ -8,4 +8,4 @@ date: 2015-01-01
 location: "Bloomington, Indiana USA"
 ---
 
-We will examine this field from a technical as well as scientific perspective, with a special focus on social media and web technologies. Topics will range from science itself, distributed computing, stigmergy, swarm intelligence, web science, collective decision-making, semantic web, crowdfunding, to prediction markets.
+We examine this exciting field from a technical as well as scientific perspective. Topics will range from animal collective intelligence, i.e. flocks, swarms and hive minds, to human collective intelligence (voting, predictions markets, crowdfunding), to hybrid human-machine architectures that stand at the interface of AI and distributed computing. We look at foundation principles such as stigmergy, collective decision-making, and swarm intelligence, which we apply to the science if science, and the semantic web.
