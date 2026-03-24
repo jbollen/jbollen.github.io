@@ -1,7 +1,7 @@
 ---
 title: "Complexity, can it be simplified?"
 collection: teaching
-type: "University course"
+type: "Undergraduate course"
 permalink: /teaching/2026-spring_UvA
 venue: "University of Amsterdam"
 date: 2026-01-01
