@@ -1,7 +1,7 @@
 ---
 title: "COGS-Q 260 Programming for the Cognitive and Information Sciences"
 collection: teaching
-type: "University Course"
+type: "Undergraduate Course"
 permalink: /teaching/2025-programming-cogsci-IU
 venue: "Indiana University, Bloomington Indiana, USA"
 date: 2015-01-01
