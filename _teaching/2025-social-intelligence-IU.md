@@ -1,7 +1,7 @@
 ---
 title: "Collective Intelligence"
 collection: teaching
-type: "University Course"
+type: "Undergraduate and Graduate Course"
 permalink: /teaching/2025-social-intelligence-IU
 venue: "Indiana University, Bloomington Indiana, USA"
 date: 2015-01-01
