@@ -1,7 +1,7 @@
 ---
-title: "COGS-Q 400 Senior Seminar in Cognitive and Information Sciences
+title: "COGS-Q 400 Senior Seminar in Cognitive and Information Sciences"
 collection: teaching
-type: "University Course"
+type: "Undergraduate/senior Course"
 permalink: /teaching/2023-seminar-cogsci-IU
 venue: "Indiana University, Bloomington Indiana, USA"
 date: 2023-01-01
